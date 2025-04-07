@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.hidden-content {
+  display: none;
+}
+
+.source-inspect {
+  margin-top: 20px;
+  front-style: italic;
+  color: gray
+}
+
+button {
+  margin-top: 30px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
